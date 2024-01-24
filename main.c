@@ -1,7 +1,6 @@
 //  ----------------------------------------------------
-//  Program 2: Wumpus
+//  Program: Hunt-The-Wumpus
 //
-//  Course: CS 251, Fall 2022. Wed 8am Lab
 //  System: Mac using XCode
 //  Author: Shahryar Ahmed
 //
